@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{F8C3414C-9791-459C-A19D-5FC16543DB33}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="hc-people-core/Models/People.cs">
+    <Files>
+      <File FileName="hc-people-core/Models/People.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="hc-people-core" expanded="True">
+            <Node name="hc-people-core" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="People.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.hc-people-core PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
